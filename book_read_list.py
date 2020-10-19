@@ -1,12 +1,13 @@
-
-
 # This is a program that stores books in a user library. This program presents a loop terminal where the user:
 #
 # 1) Includes books to the user library.
 # 2) Excludes books to the user library.
-# 3) Prints two lists on the screen: read and unread books.
+# 3) Prints two tables on the screen: read and unread books. The tables include: title, author, year of publication.
 # 4) Manually switch the status of a specific book: from unread to read, and vice versa.
 # 5) Search by book and print the result.
+# 6) Quit the program.
+
+# written by Fausto Lira
 
 ########################################################################
 # modules
