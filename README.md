@@ -3,7 +3,7 @@
 -----------------------------------------------------
 book_read_list.py
 
-O programa tem como objetivo aramzenar uma biblioteca pessoal e apresentar um prompt em forma de loop com as seguintes opções:
+O programa tem como objetivo aramzenar uma biblioteca pessoal e apresentar um menu em forma de loop com as seguintes opções:
 
 1) Adicionar livro à biblioteca.
 2) Excluir livros da biblioteca.
