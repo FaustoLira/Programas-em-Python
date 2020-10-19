@@ -1,4 +1,4 @@
-# This is a program that stores books in a user library. This program presents a loop terminal where the user:
+# This is a program that stores books in a user library. This program presents a loop menu where the user:
 #
 # 1) Includes books to the user library.
 # 2) Excludes books to the user library.
