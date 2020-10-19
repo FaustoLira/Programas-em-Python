@@ -109,6 +109,7 @@ def print_books(df):
     else:
         print('There is no unread book!')
     print('----------------------------------------------------------------------------------------------')
+    input('Press ENTER to continue...')
     print('')
 
 
@@ -145,6 +146,7 @@ def search_book(df):
     else:
         print('Book not found.')
     print('----------------------------------------------------------------------------------------------')
+    input('Press ENTER to continue...')
     print('')
 
 
