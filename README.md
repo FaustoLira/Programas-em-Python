@@ -11,4 +11,6 @@ O programa tem como objetivo aramzenar uma biblioteca pessoal e apresentar um me
 4) Busca de livro na biblioteca.
 5) Redefinir o status de lido ou não lido de um livro da biblioteca.
 6) Fechar o programa.
+
+Foi utilizado o pacote Pandas.
 -----------------------------------------------------
