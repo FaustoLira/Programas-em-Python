@@ -138,10 +138,10 @@ def search_book(df):
 
     print('----------------------------------------------------------------------------------------------')
     if df_read[df_read['Title'] == user_input].shape[0]:
-        print(f'''\nThis book appears in Books Read list.\n''')
+        print(f'''This book appears in Books Read list.\n''')
         print(df_read[df_read['Title'] == user_input])
     elif df_unread[df_unread['Title'] == user_input].shape[0]:
-        print(f'''\nThis book appears in Books Unread list.\n''')
+        print(f'''This book appears in Books Unread list.\n''')
         print(df_unread[df_unread['Title'] == user_input])
     else:
         print('Book not found.')
