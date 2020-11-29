@@ -3,15 +3,15 @@
 ---
 book_read_list.py
 
-O programa tem como objetivo aramzenar uma biblioteca pessoal e apresentar um menu em forma de loop com as seguintes opções:
+The program aims to store a personal library and present a loop menu with the following options:
 
-1) Adicionar livro à biblioteca.
-2) Excluir livros da biblioteca.
-3) Imprimir na tela duas tabelas: livros lidos e livros não lidos. As tabelas incluem: título, autor e data de publicação.
-4) Busca de livro na biblioteca.
-5) Redefinir o status de lido ou não lido de um livro da biblioteca.
-6) Fechar o programa.
+1) Add book to the library.
+2) Delete books from the library.
+3) Print on the screen two tables: read books and unread books. The tables include: title, author and date of publication.
+4) Book search in the library.
+5) Changing the status of a book in the library.
+6) Close the program.
 
-Obs: Foi utilizado a biblioteca Pandas na elaboração dos DataFrames.
+Note: The Pandas library was used in the elaboration of DataFrames.
 
 ---
